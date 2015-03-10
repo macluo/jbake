@@ -6,3 +6,8 @@
 /dist
 /.idea
 *.iml
+node_modules/
+coverage/
+stylecheck.txt
+reports/
+test/test.js
